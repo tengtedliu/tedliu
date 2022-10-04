@@ -1,101 +1,21 @@
 ---
-author: Alison Hill & Eric Anderson
-categories:
-- Theme Features
+author: Ted Liu
+# categories:
+# - Theme Features
 date: "2021-01-28"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: This paper examines the following question...
 layout: single
-subtitle: Social icons may appear on several pages throughout your site. Learn how
-  to set them up, and control where they show up.
-title: Set up your social
+# subtitle: Social icons may appear on several pages throughout your site. Learn how
+#   to set them up, and control where they show up.
+title: Small Area Estimates for National Applications A Database to Dashboard Strategy Using FIESTA
+
 ---
 
-There are five places where you can choose to show social icons. Here is the tl;dr:
+### Abstract
 
-+ site header (set in `config.toml`), 
-+ site footer (set in `config.toml`), 
-+ [homepage](/) (set in `content/_index.md`),
-+ [about page](/about) in the sidebar (set in `content/about/sidebar/index.md`), and
-+ [contact page](/contact) (set in `content/form/contact.md`). 
+This paper demonstrates a process for translating a database of forest measurements to interactive dashboards through which users can access statistically defensible estimates and analyses anywhere in the conterminous US. It taps the extensive Forest Inventory and Analysis (FIA) plot network along with national remotely sensed data layers to produce estimates using widely accepted model-assisted and small area estimation methodologies. It leverages a decade’s worth of statistical and computational research on FIA’s flexible estimation engine, FIESTA, and provides a vehicle through which scientists and analysts can share their own tools and analytical processes. This project illustrates one pathway to moving statistical research into operational inventory processes, and makes many model-assisted and small area estimators accessible to the FIA community. To demonstrate the process, continental United States (CONUS)-wide model-assisted and small area estimates are produced for ecosubsections, counties, and level 5 watersheds (HUC 10) and made publicly available through R Shiny dashboards. Target parameters include biomass, basal area, board foot volume, proportion of forest land, cubic foot volume, and live trees per acre. Estimators demonstrated here include: the simplest direct estimator (Horvitz–Thompson), model-assisted estimators (post-stratified, generalized regression estimator, and modified generalized regression estimators), and small area estimators (empirical best linear unbiased predictors and hierarchical Bayes both at the area- and unit-level). Auxiliary data considered in the model-assisted and small area estimators included maps of tree canopy, tree classification, and climatic variables. Estimates for small domain sets were generated nationally within a few hours. Exploring results across estimators and target variables revealed the progressive gains in precision using (in order of least gain to highest gain) Horvitz–Thompson, post-stratification, modified generalized regression estimators, generalized regression estimators, area-level small area models, and unit-level small area models. Substantive gains are realized by expanding model-assisted estimators beyond post-stratification, allowing FIA to continue to take advantage of design-based inference in many cases. Caution is warranted in the use of unit-level small area models due to model mis-specification. The dataset of estimates available through the dashboards provides the opportunity for others to compare estimators and explore precision expectations over specific domains and geographic regions. The dashboards also provide a forum for future development and analyses.
 
-Read on to learn how to set up your social icons, and how to show/hide them.
+### Access
 
-## Configure social 
-
-Wherever you end up wanting to show your social icons, you'll need to start by setting up the links in your site `config.toml` file. Open that up and scroll down to the `[[params.social]]` section. The start of it looks like this:
-
-```toml
-[params]
-  <!--snip snip-->
-  
-  # Social icons may appear on your site header, footer, and other pages
-  # Add as many icons as you like below
-  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
-  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]] <!--lather, rinse, repeat-->
-```
-
-For each link, you'll need to start a new portion that begins with `[[params.social]]`. Then, pick your `icon` and `icon_pack` from the [Font Awesome](https://fontawesome.com/) free icon library:
-
-+ Icon pack "fab" includes [brand icons](https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-
-+ Icon pack "fas" includes [solid icons](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
-
-+ Icon pack "far" includes [regular icons](https://fontawesome.com/icons?d=gallery&s=regular&m=free)
-
-Finally, add the `url` that you would like users to go to when they click on that icon. All external links (i.e., those that start with `http`) will open in a new tab (that is, `target="_blank"`); relative links to pages within the site will open in the same window.
-
-Now you should be all set to show/hide your social icons. Each of these will pull the social icons and urls from the settings you just created in your site configuration file.
-
-## Show social in site header and footer
-
-Let's start with the header and footer, as those are site-wide. Open up your site `config.toml` file again and scroll down to the `[params]` section (it is actually :up: from where you configured these icons):
-
-```toml
-[params]
-  <!--snip snip-->
-  
-  # show/hide social icons in site header & footer
-  # configure social icons and links below in [[params.social]]
-  socialInHeader = false
-  socialInFooter = true
-```
-
-That was easy!
-
-## Show social in homepage
-
-Open up `content/_index.md`. That file's YAML controls what you see on the homepage. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-If you set this to `true` to show the icons on the homepage, your social icons in the footer will not show up even when you set `socialInFooter = true`, so as not to litter your site with too many icons.
-
-## Show social in about page sidebar
-
-Open up `content/about/sidebar/index.md`. That file's YAML controls what you see in the sidebar on the about page. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-## Show social in contact page
-
-You may use the YAML for your contact page (located in `content/form/contact.md`):
-
-```yaml
----
-show_social_links: true # specify social accounts in site config
----
-```
+The link to this paper is at [title](https://www.example.com)

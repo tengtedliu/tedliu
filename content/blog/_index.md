@@ -11,7 +11,7 @@ cascade:
     text_link_url: /blog/
 description: "This is a fully featured blog that supports categories, \ntags, series,
   and pagination.\n"
-layout: list-sidebar
+layout: list
 show_author_byline: true
 show_button_links: false
 show_post_date: true

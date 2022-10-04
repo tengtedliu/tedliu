@@ -70,7 +70,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -107,15 +107,22 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Research"
+    title = "Research"
     url = "/blog/"
     weight = 2
+
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
     weight = 3
+
+#  [[menu.header]]
+#    name = "Projects"
+#    title = "Project Portfolio"
+#    url = "/project/"
+#    weight = 3
 #  [[menu.header]]
 #    name = "Talks"
 #    title = "Talks"
