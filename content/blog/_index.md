@@ -1,6 +1,8 @@
 ---
+type: blog
 author: The R Markdown Team @RStudio
 cascade:
+  type: blog
   author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: true
@@ -14,7 +16,7 @@ description: "This is a fully featured blog that supports categories, \ntags, se
 layout: list
 show_author_byline: true
 show_button_links: false
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: The R Markdown Team @RStudio
