@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Ted Liu"
 author = "Alison Hill"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -28,10 +28,10 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Ted Liu"
+  #orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/logo2.ico"
   logo = "/img/logo2.png"
   mainSections = []
   navallcaps = true
@@ -98,6 +98,8 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
+[permalinks]
+  research = "/blog/:filename/"
 
 [menu]
   # Configure header 
