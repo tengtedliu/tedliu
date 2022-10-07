@@ -1,6 +1,8 @@
 ---
 author: The R Markdown Team @RStudio
+type: talk
 cascade:
+  type: talk
   author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: false

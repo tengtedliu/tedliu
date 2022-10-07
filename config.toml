@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Ted Liu"
   #orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/logo2.ico"
-  logo = "/img/logo2.png"
+  favicon = "/img/logo.ico"
+  logo = "/img/logo.png"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -98,8 +98,7 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
-[permalinks]
-  research = "/blog/:filename/"
+
 
 [menu]
   # Configure header 
@@ -113,6 +112,8 @@ enableEmoji = true
     title = "Research"
     url = "/blog/"
     weight = 2
+  [permalinks]
+  "/blog" = "/research/:filename/"
 
   [[menu.header]]
     name = "CV"
@@ -130,11 +131,17 @@ enableEmoji = true
 #    title = "Talks"
 #    url = "/talk/"
 #    weight = 4
- # [[menu.header]]
+
+#  [[menu.header]]
+#    name = "Research2"
+#    title = "Research2"
+#   url = "/research/"
+#    weight = 5
+#  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
 #    url = "/collection/"
- #   weight = 5
+#    weight = 6
 #  [[menu.header]]
 #    name = "Elements"
 #    title = "Element Page"
