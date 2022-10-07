@@ -2,7 +2,7 @@
 author: Alison Hill
 categories:
 - Theme Features
-date: "2021-01-27"
+date: "2021-01-30"
 draft: false
 excerpt: This theme offers three ways to customize your site's fonts. Choose from
   6 embedded font options, including 3 serif and 3 sans-serif fonts, or rely on system

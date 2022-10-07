@@ -30,4 +30,7 @@ title: CV & Resume
 ---
 
 
-The link to this paper is at [title](https://www.example.com)
+Access my CV [here](https://www.dropbox.com/s/vpbcpl24ekjynl6/Liu_CV.pdf?dl=0)
+
+See my resume [here](https://www.dropbox.com/s/5q0xw640hcstmw2/Liu_resume.pdf?dl=0)
+

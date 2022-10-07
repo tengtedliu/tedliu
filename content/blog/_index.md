@@ -6,7 +6,7 @@ cascade:
   # author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: true
-  show_post_date: true
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
