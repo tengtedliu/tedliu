@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello, welcome to my site. I am an economist and data scientist. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stake- holders in their decision-making.
+description: Hello, welcome to my site. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. I am in the job market and available for interviews.
 image_left: true
 images:
 - profile.jpg

@@ -4,7 +4,7 @@ author: Ted Liu
 # - Theme Features
 date: "2022-10-06"
 draft: false
-excerpt: This paper examines the following question...
+excerpt: Climate change affects how banks lend, and the lending frequencies and magnitudes differ by factors such as farm size. This paper is one of the first works that uncover the distributional impact of climate risks on access to finance.  
 layout: single
 # subtitle: Social icons may appear on several pages throughout your site. Learn how
 #   to set them up, and control where they show up.

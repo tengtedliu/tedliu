@@ -6,9 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Ted is an economist working on climate change. Through his research, he aims to help measure the financial risks and costs of climate change, in order to manage them and improve the economic resilience of underserved communities. His doctoral dissertation contributes to this goal by focusing on bank lending and sovereign debt default, using a range of statistical and numerical modeling tools. 
+  I am an economist working on climate change. Through my research, I aim to help measure the financial risks and costs of climate change, in order to manage them and improve the economic resilience of underserved communities. My doctoral dissertation contributes to this goal by focusing on bank lending and sovereign debt default, using a range of statistical and numerical modeling tools. 
   
-  At the Coastal Resilience Lab, he works on the pricing and valuation of nature-based projects for climate mitigation and adaptation. Before becoming an economist, Ted originally trained to be an anthropologist. Thanks to this nonlinear path, Ted has gained insights into the value of including indigenous knowledge, and the advantage of interdisciplinary solutions to complex problems like climate change. 
+  Originally trained to be an anthropologist and having started my career in international relations, I have a highly nonlinear path to economics and finance. Thanks to this background, I understand the advantage of interdisciplinary solutions to complex problems like climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stakeholders in their decision-making.
+
+  Currently I am working with the [Coastal Resilience Lab](https://www.coastalresiliencelab.org/) to develop pricing and valuation tools for nature-based solutions for climate adaptation. Prior to the PhD, I worked as a research associate at the Council on Foreign Relations (CFR). I have also interned as a data scientist with Apple Inc., where I developed an interactive data visualization app, and contributed to a deep reinforcement learning project. 
 
 show_outro: false
 outro: |
