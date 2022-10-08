@@ -34,5 +34,5 @@ Access my CV [here](https://www.dropbox.com/s/vpbcpl24ekjynl6/Liu_CV.pdf?dl=0)
 
 #### Resume
 
-See my resume [here](https://www.dropbox.com/s/5q0xw640hcstmw2/Liu_resume.pdf?dl=0)
+Access my resume [here](https://www.dropbox.com/s/5q0xw640hcstmw2/Liu_resume.pdf?dl=0)
 

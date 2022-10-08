@@ -7,7 +7,7 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "Contact" # bookmarks, elsewhere, etc.
 link_list:
-- name: teng.ted.liu@gmail.com
+- name: teng.ted.liu@gmail.com  tedliu@ucsc.edu
   # mailto: teng.ted.liu@gmail.com
 ---
 

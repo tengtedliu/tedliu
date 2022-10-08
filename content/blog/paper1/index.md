@@ -4,7 +4,7 @@ author: Ted Liu
 # - Theme Features
 date: "2022-10-06"
 draft: false
-excerpt: Climate change affects how banks lend, and the lending frequencies and magnitudes differ by factors such as farm size. This paper is one of the first works that uncover the distributional impact of climate risks on access to finance.  
+excerpt: Climate change affects how banks lend, and the resulting frequencies and magnitudes differ by factors such as farm size. This paper is one of the first works that uncover the distributional impact of climate risks on access to finance.  
 layout: single
 # subtitle: Social icons may appear on several pages throughout your site. Learn how
 #   to set them up, and control where they show up.
@@ -32,7 +32,8 @@ depending on farm regions, income areas, and the types of banks providing the
 lending.
 #### Access
 
-The link to this paper is [here](https://www.dropbox.com/s/simioylaaxbxozi/climate_farm_bank.pdf?dl=0)
+- Link to paper is [here](https://www.dropbox.com/s/simioylaaxbxozi/climate_farm_bank.pdf?dl=0)
+- Link to slide deck is [here](https://www.dropbox.com/s/cfhawxvwt6jivh1/Liu_presentation.pdf?dl=0)
 #### Presentations
 - UC Santa Cruz Postdoc Symposium, Santa Cruz, May 2022
 - Office of the Comptroller of the Currency (OCC) Symposium on Climate Risk in Banking and Finance, Washington DC, June 2022
