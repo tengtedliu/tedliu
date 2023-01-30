@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Ted Liu</title>
+    <link>/blog/</link>
+    <description>Recent content in Research on Ted Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Save the Farms: Nonlinear Impact of Climate Change on Banks’ Agricultural Lending</title>
+      <link>/research/paper1/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/paper1/</guid>
+      <description>Abstract The agricultural sector is particularly susceptible to the impact of climate change, both in terms of production and access to bank financing. This paper contributes to the literature by investigating how vulnerability to climate change affects U.S. farms’ credit access, using a novel panel dataset at county level and at bank level. The results show that increasing exposure to climate change can reduce bank lending to farms, and such impact is nonlinear.</description>
+    </item>
+    
+    <item>
+      <title>Climate Risks and Sovereign Default: Scenario Analyses of Fiscal Conditions</title>
+      <link>/research/paper2/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/paper2/</guid>
+      <description>Abstract Responding to climate change poses increasingly high fiscal costs. In this paper I examine how climate change affects sovereign default risks and fiscal policy through a set of empirical results and a stylized model. Using panel data of 135 countries over 1995-2018, I first show that 1 percentage increase of vulnerability to climate risks can increase sovereign default probability by around 5 percentage points, and such default risks may differ by fiscal conditions.</description>
+    </item>
+    
+    <item>
+      <title>Developing New Financial Tools to Invest in Nature-Based Solutions for Climate Adaptation</title>
+      <link>/research/paper3/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/research/paper3/</guid>
+      <description>Proposal There is a growing demand for pricing climate risk and identifying cost-effective solutions, particularly nature-based solutions, to reduce this risk. Unfortunately, there is still a large gap between the demand for this work and the interdisciplinary science to deliver answers. We aim to rigorously quantify climate risks and the value of nature-based solutions to reduce them and to inspire greater investments in them.
+Ecosystems provide benefits that society should pay for, but these services are rarely valued rigorously or in the economic terms needed by investors and government agencies.</description>
+    </item>
+    
+  </channel>
+</rss>
