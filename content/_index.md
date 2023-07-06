@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello, I am a PhD candidate in economics at the University of California, Santa Cruz (UCSC). I am passionate about using data insights to help understand and address pressing economic issues such as climate change. I am in the job market and available for interviews.
+description: Hello, I am a PhD economist and currently working as Research Manager at Upwork. My research portfolio is in the following fields---digital economy and the future of work; financial solutions for climate change adaption.
 image_left: true
 images:
 - profile.jpg
