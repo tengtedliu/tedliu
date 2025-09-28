@@ -32,16 +32,16 @@
     <loc>/blog/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/research/paper1/</loc>
+    <loc>/blog/paper1/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/research/paper2/</loc>
+    <loc>/blog/paper2/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/research/paper3/</loc>
+    <loc>/blog/paper3/</loc>
     <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -125,11 +125,17 @@
     <loc>/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
+    <loc>/research/my-paper/</loc>
+  </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
     <loc>/license/</loc>
+  </url><url>
+    <loc>/blog/publications/</loc>
+  </url><url>
+    <loc>/research/</loc>
   </url><url>
     <loc>/series/</loc>
   </url>

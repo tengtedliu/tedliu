@@ -1,1 +1,26 @@
 // Override this file to add your own SCSS styling.
+// Target list items specifically
+ul, ol {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+li {
+  max-width: none !important;
+  width: 100% !important;
+  word-wrap: break-word;
+}
+
+// Also target the main content container
+.content,
+.main,
+article {
+  max-width: 90% !important;
+  width: 90% !important;
+}
+
+// Target Hugo Apéro specific classes
+.blog-single,
+.blog-list {
+  max-width: 1200px !important;
+}

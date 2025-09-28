@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hello, I am a PhD economist and currently working as Research Manager at Upwork. My research fields include AI and the future of work, and financial solutions for climate change adaption.
+description: Hello, I am a PhD economist and currently working as Research Manager at Upwork. My research fields include AI and the future of work, and financial solutions to climate change adaption.
 image_left: true
 images:
 - profile.jpg

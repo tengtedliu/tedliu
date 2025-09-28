@@ -107,19 +107,26 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/blog/"
-    weight = 2
-  [permalinks]
-  "/blog" = "/research/:filename/"
+#  [[menu.header]]
+#    name = "Research"
+#    title = "Research"
+#    url = "/blog/"
+#    weight = 2
+#  [permalinks]
+#  "/blog" = "/research/:filename/"
 
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/"
     weight = 3
+
+    [[menu.header]]
+    name = "Research"
+    title = "Research"
+    url = "/research/"
+    weight = 2
+
 
 #  [[menu.header]]
 #    name = "Projects"
