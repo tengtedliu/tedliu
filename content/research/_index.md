@@ -40,7 +40,7 @@ My research examines how economic systems adapt to technological and environment
 
 * AI Exposure and Strategic Positioning on an Online Work Platform, with Shun Yiu, Robert Seamans, Manav Raj. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769321)
 
-* The Impact of Generative AI on Freelancer Job Preferences and Bidding Behaviors: Evidence from a Randomized Field Experiment, with Peiyan Yu, Sonia Jaffe, Nicole Immorlica, Kelly Monahan. 
+* The Impact of Generative AI on Freelancer Job Preferences and Bidding Behaviors: Evidence from a Randomized Field Experiment, with Peiyan Yu, Sonia Jaffe, Nicole Immorlica, Kelly Monahan. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5310010)
 
 
 <h2>Publications</h2>
